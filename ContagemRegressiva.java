@@ -8,6 +8,7 @@ public class ContagemRegressiva {
     System.out.println("Este programa executa uma contagem regressiva!");
     System.out.println("Digite um número para executar");
     int numero = leitor.nextInt();
+
     System.out.println("---------------------------------------------------");
     while (numero >= 1) {
       System.out.println(numero);
