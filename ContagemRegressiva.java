@@ -4,6 +4,7 @@ public class ContagemRegressiva {
   public static void main(String[] args) {
 
     Scanner leitor = new Scanner(System.in);
+
     System.out.println("=================================================");
     System.out.println("Este programa executa uma contagem regressiva!");
     System.out.println("Digite um número para executar");
