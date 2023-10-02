@@ -19,5 +19,7 @@ public class Tabuada {
         }
         System.out.println("==============================================================");
 
+        main(args);
+
     }
 }
